@@ -1,1 +1,1 @@
-web: gunicon urlshort:app
+web: gunicorn urlshort:app
